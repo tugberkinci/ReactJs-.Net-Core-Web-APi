@@ -1,10 +1,7 @@
 ## ReactJs .Net Core Full Stack Web Api Project
 
 
-## Özellikler
-
-
-## Kullanılan Teknolojiler
+### Kullanılan Teknolojiler
 
 - .Net Core Web Api
 - React JS
