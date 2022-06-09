@@ -8,7 +8,7 @@
 
 - .Net Core Web Api
 - React JS
-- Microsoft Sql Server
+- MsSQL 
 
 
 
