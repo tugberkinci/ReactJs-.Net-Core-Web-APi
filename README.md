@@ -10,7 +10,7 @@
 - React JS
 - Microsoft Sql Server
 
-## Nasıl Çalıştırılır
+
 
 
 
